@@ -1,0 +1,9 @@
+[package]
+name = "course-viewer"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gettext-rs = "0.7.7"
+gtk = { version = "0.10.2", package = "gtk4" }
+rfd = "0.15.4"
