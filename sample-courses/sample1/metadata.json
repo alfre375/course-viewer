@@ -1,0 +1,14 @@
+{
+    "course_name": "Sample Course 1",
+    "course_language": "en_GB",
+    "course_layout": [
+        {
+            "name": "Lesson 1: Introduction",
+            "lesson_contents": {
+                "type": "markdown",
+                "location": "lesson1.md"
+            }
+        }
+    ],
+    "license": "$!arr"
+}
